@@ -4,8 +4,12 @@
     --pink: #D90BCB;
     --teal: #30F2DF;
 }
-body {
+
+html {
     background-image: linear-gradient(#470459, #000000);
+}
+
+body {
     padding-bottom: 4em;
     color: white;
 }
